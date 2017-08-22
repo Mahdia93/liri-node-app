@@ -1,0 +1,14 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "siri but liri",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mahdia",
+  "license": "ISC",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7"
+  }
+}
